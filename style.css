@@ -152,6 +152,10 @@ i {
     display: none;
 }
 
+#profile-container::-moz-scrollbar {
+    display: none;
+}
+
 
 #profile-slider {
     /* border: 2px solid red; */
